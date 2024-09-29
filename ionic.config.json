@@ -1,0 +1,7 @@
+{
+  "name": "SPORTFLUX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
